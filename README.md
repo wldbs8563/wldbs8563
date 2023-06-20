@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=WebDesignPublisher&animation=fadeIn&color=FD866E&type=shark)
 
-<h3 align="center">👋.지각 결석 조퇴없이 열심히 듣자!</h3>
+<h3 align="center">👋지각 결석 조퇴없이 열심히 듣자!</h3>
 
 - 💬 Ask me about **HTML, CSS, Javascript, Jquery, SCSS**
 
